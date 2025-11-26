@@ -1,0 +1,12 @@
+2025-11-21 15:13:28,877 INFO: Loaded data from records.json
+2025-11-21 15:14:08,179 INFO: Saved data to records.json
+2025-11-21 15:14:08,179 INFO: Added patient S11
+2025-11-21 15:14:36,396 INFO: Saved data to records.json
+2025-11-21 15:14:36,397 INFO: Added doctor D11
+2025-11-21 15:14:49,860 INFO: Saved data to records.json
+2025-11-21 15:14:49,876 INFO: Assigned doctor D11 to patient S11
+2025-11-21 15:15:25,831 INFO: Saved data to records.json
+2025-11-21 15:15:25,832 INFO: Discharged patient S11
+2025-11-21 15:24:39,273 INFO: Loaded data from records.json
+2025-11-21 15:25:59,668 INFO: Loaded data from records.json
+2025-11-21 15:27:49,296 INFO: Loaded data from records.json
